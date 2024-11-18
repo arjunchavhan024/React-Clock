@@ -13,5 +13,5 @@
    - Email: arjunchavhan024@gmail.com
 
 ## Link :
-   url : https://github.com/arjunchavhan024/React-Clock
+   url : https://react-clock-arjunchavhan024.netlify.app/
 
